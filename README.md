@@ -1,4 +1,4 @@
-# AI-driven Early Detection of Autism in Toddlers using Multimodal AI
+# AI-Driven Early Detection of Autism in Toddlers using Multimodal AI
 
 Autism Spectrum Disorder (ASD) is a neurodevelopmental condition that affects communication, behavior, and social interaction. Early diagnosis can significantly improve intervention outcomes. The aim is to design a proof-of-concept AI model or pipeline that aims to detect early behavioral signs of autism in toddlers using non-invasive and multimodal data, particularly focusing on visual cues captured via camera systems.
 
